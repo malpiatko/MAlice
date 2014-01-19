@@ -1,10 +1,8 @@
 #MAlice
 
 #About
-- Contributors: Elzbieta Siwy, William Nicholson, Pierre Sutter
-- Aim: This program performs the syntactical and semantical analysis of a ficticious language called MAlice.
+- Aim: This program performs the syntactical and semantical analysis of a ficticious language called MAlice. It was part of a group project for 2nd year Computing students at Imperial College London.
 - Technologies: Lex, Yacc
-It was part of a group project for 2nd year Computing students at Imperial College London.
 
 #Usage
 - There are 2 examples of the language in the examples directory
